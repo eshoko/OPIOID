@@ -1,6 +1,6 @@
 # OPIOID
 
-'Opioid_Segments.nii' is a NIfTI file of brain opioid segments derived based on the distribution of mu, kappa, and delta opioid receptorsin the MNI space. Brain regions are labeled as follows:
+'Opioid_Segments.nii' is a NIfTI file of brain opioid segments derived based on the distribution of mu, kappa, and delta opioid receptors in the MNI space. Brain regions are labeled as follows:
 
 - Areas with a value of 1: primary opioid segment
 - Areas with a value of 2: secondary opioid segment
