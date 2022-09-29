@@ -1,17 +1,17 @@
 # OPIOID
 
-'Opioid_Segments.nii' is a NIfTI file of brain opioid segments in the MNI space derived based on the distribution of mu, kappa, and delta opioid receptors in the MNI space. See Shokri-Kojori et al. (2022) for more details. Brain regions are labeled as follows:
+'Opioid_Segments.nii' is a NIfTI file of brain opioid segments in the MNI space derived based on the distribution of opioid and dopamine receptors in the MNI space. See Shokri-Kojori et al. (2022) for more details. Brain regions are labeled as follows:
 
 - Areas with a value of 1: primary opioid segment
 - Areas with a value of 2: secondary opioid segment
 - Areas with a value of 3: striatum
 - Areas with a value of 4: white matter and CSF
 
-'DOR.nii' is a NIfTI file of average delta opioid receptor availability in the MNI space (n = 10, 9 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Weerts et al. (2011). 
+'DOR.nii' is a NIfTI file of average delta opioid receptor availability in the MNI space (n = 10, 9 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original PET data were reported in Weerts et al. (2011). 
 
-'KOR.nii' is a NIfTI file of average kappa opioid receptor availability in the MNI space (n = 10, 10 males). For kinetic modelling, normalization, and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Naganawa et al. (2014).
+'KOR.nii' is a NIfTI file of average kappa opioid receptor availability in the MNI space (n = 10, 10 males). For kinetic modelling, normalization, and template generation please cite: Shokri-Kojori, E. et al. (2022). Original PET data were reported in Naganawa et al. (2014).
 
-'MOR.nii' is a NIfTI file of average mu opioid receptor availability in the MNI space (n = 10, 6 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Kuwabara et al. (2014).
+'MOR.nii' is a NIfTI file of average mu opioid receptor availability in the MNI space (n = 10, 6 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original PET data were reported in Kuwabara et al. (2014).
 
 
 References:
