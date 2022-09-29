@@ -9,9 +9,9 @@
 
 'DOR.nii' is a NIfTI file of average delta opioid receptor availability in the MNI space (n = 10, 9 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Weerts et al. (2011). 
 
-'KOR.nii' is a NIfTI file of average kappa opioid receptor availability in the MNI space (n = 10, 10 males). For kinetic modelling, normalization, and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Naganawa et al. (2014)
+'KOR.nii' is a NIfTI file of average kappa opioid receptor availability in the MNI space (n = 10, 10 males). For kinetic modelling, normalization, and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Naganawa et al. (2014).
 
-'MOR.nii' is a NIfTI file of average mu opioid receptor availability in the MNI space (n = 10, 6 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Kuwabara et al. (2014)
+'MOR.nii' is a NIfTI file of average mu opioid receptor availability in the MNI space (n = 10, 6 males). For normalization and template generation please cite: Shokri-Kojori, E. et al. (2022). Original data were reported in Kuwabara et al. (2014).
 
 
 References:
